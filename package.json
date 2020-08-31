@@ -1,0 +1,28 @@
+{
+  "fitbit": {
+    "appUUID": "708a922b-ffac-48d3-b005-0884ab7720ca",
+    "appType": "clockface",
+    "appDisplayName": "SimpleWatchFace",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_activity"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "SimpleWatchFace"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}

@@ -1,0 +1,53 @@
+.background {
+  viewport-fill: black;
+}
+
+#myHours {
+  font-size: 150;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 30%;
+  y: 70%;
+  fill: white;
+}
+
+#myMins {
+  font-size: 80;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 70%;
+  y: 50%;
+  fill: white;
+}
+
+#myDate {
+  font-size: 23;
+  font-family: Colfax;
+  text-length: 32;
+  text-anchor: middle;
+  x: 69%;
+  y: 67%;
+  fill: white;
+}
+
+#hrLabel {
+  font-size: 23;
+  font-family: Colfax;
+  text-length: 32;
+  text-anchor: middle;
+  x: 26%;
+  y: 24%;
+  fill: white;
+}
+
+#myBattery {
+  font-size: 23;
+  font-family: Colfax;
+  text-length: 32;
+  text-anchor: middle;
+  x: 62%;
+  y: 24%;
+  fill: white;
+}

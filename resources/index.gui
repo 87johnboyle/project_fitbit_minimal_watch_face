@@ -1,0 +1,9 @@
+<svg class="background">
+  <text id="myHours" />
+  <text id="myMins" />
+  <text id ="hrLabel" />
+  <text id = "myDate" />
+  <text id = "myBattery" />
+  <image href="hr.png" x="37" y="37" width="30" height="30" fill="white"/>
+  <image href="bat.png" x="147" y="37" width="30" height="30" fill="white"/>
+</svg>
